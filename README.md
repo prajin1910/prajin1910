@@ -3,7 +3,7 @@
 <h3 align="center">Founder of TechBridge Innovations | Flutter & Web Developer | IoT + Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=CSE+Student+%7C+St.+SJIT;Tech+Entrepreneur+%7C+Innovator+%7C+Problem+Solver;Passionate+about+AI%2C+IoT%2C+and+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=CSE+Student+%7C+Tech+Entrepreneur;Innovator+%7C+Problem+Solver;Passionate+about+AI%2C+IoT%2C+and+Cloud" alt="Typing SVG" />
 </p>
 
 ---
