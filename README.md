@@ -1,85 +1,93 @@
-# 👋 Hi, I'm Prajin Kumar P
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Prajin Kumar P</h1>
+<h3 align="center">Founder of TechBridge Innovations | Flutter & Web Developer | IoT + Cloud Enthusiast</h3>
 
-🎓 2nd Year Computer Science Engineering student at St. Joseph's Institute of Technology  
-💼 Founder & CEO - TechBridge Innovations Pvt. Ltd.  
-🌐 Portfolio: [techbridgeinnovations.in](http://techbridgeinnovations.in/)
-
----
-
-## 🚀 About Me
-
-I am a passionate Full-Stack Developer and tech entrepreneur dedicated to building impactful digital experiences that bridge innovation with real-world utility.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=2nd+Year+CSE+Student+%7C+St.+Joseph's+Institute+of+Technology;Tech+Entrepreneur+%7C+Innovator+%7C+Problem+Solver;Passionate+about+AI%2C+IoT%2C+and+Cloud" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Skills and Technologies
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Web Technologies:**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Databases:**
-
-![Firebase Realtime Database](https://img.shields.io/badge/-Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Other Technologies:**
-
-![IoT](https://img.shields.io/badge/-IoT-00ADD8?style=flat-square&logo=internetofthings&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=ai&logoColor=white)
+### 🧑‍💻 **About Me**
+- 🎯 Founder & CEO of [TechBridge Innovations](http://techbridgeinnovations.in/)
+- 👨‍🎓 CSE Student at St. Joseph’s Institute of Technology, Chennai
+- 🚀 Building smart apps with Flutter, Firebase, and modern Web tech
+- 🌍 Innovating on IoT-based solutions with real-time monitoring and analytics
+- 📱 Creating high-impact, community-focused mobile & web apps
 
 ---
 
-## 🔧 Projects
+### ⚒️ Tech Stack & Tools
 
-### [Foodyield: Smart Urban Food Waste Management](https://github.com/yourusername/foodyield)
-
-A full-stack solution to monitor and reduce food wastage in urban areas.
-
-- **Features:**
-  - Admin & Hotel dashboards for donation, requests & analytics
-  - Complaint portal for users to report illegal/inferior food
-  - Association login for food waste intake analysis
-- **Technologies Used:** HTML, CSS, JavaScript, Firebase (Authentication & Database)
-
-### [Real-Time Temperature Monitoring IoT Website](https://github.com/yourusername/temp-monitor)
-
-A responsive IoT-integrated platform for grocery & goods storage monitoring.
-
-- **Features:**
-  - Real-time temperature updates based on device ID
-  - Alerts when thresholds are breached
-- **Technologies Used:** Firebase Database, IoT integration, JavaScript
-
-### [College Bus Tracking App](https://github.com/yourusername/bus-tracker)
-
-An app to track college buses in real-time.
-
-- **Features:**
-  - User, Driver & Management logins
-  - Search routes and track buses with live location
-- **Technologies Used:** Flutter, Firebase, Google Maps API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,js,html,css,python,figma,github,git,linux,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 GitHub Stats
 
-![Prajin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+### 💼 Highlight Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+#### 🚨 Foodyield – Smart Urban Food Waste Management  
+> A web-based portal for managing food donations, complaints, and hotel analytics.  
+> `HTML`, `CSS`, `JS`, `Firebase`
+
+#### 🌡️ Real-Time Temperature IoT Monitoring  
+> Live IoT data dashboard for storage safety. Alerts on threshold breach.  
+> `IoT`, `Firebase`, `JavaScript`
+
+#### 🚌 College Bus Tracker App  
+> Flutter app for real-time bus tracking and route search.  
+> `Flutter`, `Firebase`, `Google Maps API`
+
+#### 🔐 Auth App with Firebase  
+> Register/Login using email + username. Clean UI and secure auth.  
+> `Flutter`, `Firebase`
+
+#### ❌ XO Game Multiplayer App  
+> A classic XO game for two players with stylish UX.  
+> `Flutter`, `Custom Animations`
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 1st Place – Tech Tre2 Competitive Programming
+- ✅ Selected for **Deep Blue Hackathon**
+- 👨‍💻 Multiple Internship Experiences (Android Dev, AI/ML, UI/UX)
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=rogue" />
+</p>
+
+---
+
+### 📫 Contact & Links
+
+<p align="center">
+  <a href="mailto:prajinkumarp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://techbridgeinnovations.in/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
