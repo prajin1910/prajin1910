@@ -8,19 +8,20 @@
 
 ---
 
-### 🧑‍💻 **About Me**
-- 🎯 Founder & CEO of [TechBridge Innovations](http://techbridgeinnovations.in/)
-- 👨‍🎓 CSE Student at St. Joseph’s Institute of Technology, Chennai
-- 🚀 Building smart apps with Flutter, Firebase, and modern Web tech
-- 🌍 Innovating on IoT-based solutions with real-time monitoring and analytics
-- 📱 Creating high-impact, community-focused mobile & web apps
+### 🧑‍💻 About Me
+
+- 🎓 2nd Year CSE Student at **St. Joseph's Institute of Technology**, Chennai  
+- 💼 Founder & CEO of [TechBridge Innovations](http://techbridgeinnovations.in)  
+- 🧠 Building projects with **Flutter**, **Firebase**, **IoT**, and **Cloud**  
+- 🚀 Passionate about innovation, smart city solutions, and product development  
+- 🥇 Winner of Tech Tre2 CP Event | 🤖 Deep Blue Hackathon Finalist  
 
 ---
 
 ### ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,js,html,css,python,figma,github,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,js,html,css,python,figma,github,git,linux,vscode,mern" />
 </p>
 
 ---
@@ -28,66 +29,74 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prajin1910&show_icons=true&theme=radical" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajin1910&theme=radical&hide_border=false" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajin1910&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ### 💼 Highlight Projects
 
-#### 🚨 Foodyield – Smart Urban Food Waste Management  
-> A web-based portal for managing food donations, complaints, and hotel analytics.  
-> `HTML`, `CSS`, `JS`, `Firebase`
+#### 🍽️ Foodyield – Smart Urban Food Waste Management  
+> A smart web platform to reduce food waste and help NGOs.  
+> 🛠️ `HTML`, `CSS`, `JavaScript`, `Firebase`, `Realtime DB`, `Auth`
 
-#### 🌡️ Real-Time Temperature IoT Monitoring  
-> Live IoT data dashboard for storage safety. Alerts on threshold breach.  
-> `IoT`, `Firebase`, `JavaScript`
+#### 🌡️ Real-Time IoT Temperature Monitoring  
+> Live dashboard for goods storage alerts & analytics.  
+> 🛠️ `Firebase`, `IoT`, `JavaScript`, `HTML`
 
 #### 🚌 College Bus Tracker App  
-> Flutter app for real-time bus tracking and route search.  
-> `Flutter`, `Firebase`, `Google Maps API`
+> Live bus tracking + route search for students & staff.  
+> 🛠️ `Flutter`, `Firebase`, `Google Maps API`
 
-#### 🔐 Auth App with Firebase  
-> Register/Login using email + username. Clean UI and secure auth.  
-> `Flutter`, `Firebase`
+#### 🔐 Flutter Auth App  
+> Register/Login with Firebase, secure user flow.  
+> 🛠️ `Flutter`, `Firebase Authentication`, `Realtime DB`
 
-#### ❌ XO Game Multiplayer App  
-> A classic XO game for two players with stylish UX.  
-> `Flutter`, `Custom Animations`
+#### ❌ XO Multiplayer Game  
+> A minimalistic XO game app for 2 players.  
+> 🛠️ `Flutter`, `Custom Animations`
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 1st Place – Tech Tre2 Competitive Programming
-- ✅ Selected for **Deep Blue Hackathon**
-- 👨‍💻 Multiple Internship Experiences (Android Dev, AI/ML, UI/UX)
+- 🥇 1st Place – Tech Tre2 CP Contest  
+- 💡 Finalist – **Deep Blue Hackathon**  
+- 💻 Completed Internships in Android, AI/ML, UI/UX  
+- 🏗️ Built 10+ real-world projects with modern stacks
 
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=rogue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajin1910&theme=rogue" />
 </p>
 
 ---
 
-### 📫 Contact & Links
+### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:prajinkumarp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="http://techbridgeinnovations.in/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:prajinkumar2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prajinkumar19/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://prajin-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- Optional visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajin1910&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
