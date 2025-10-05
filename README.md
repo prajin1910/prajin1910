@@ -10,8 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd Year CSE Student at **St. Joseph's Institute of Technology**, Chennai  
-- 💼 Founder & CEO of [TechBridge Innovations](http://techbridgeinnovations.in)  
+- 🎓 3rd Year CSE Student at **St. Joseph's Institute of Technology**, Chennai  
 - 🧠 Building projects with **Flutter**, **Firebase**, **IoT**, and **Cloud**  
 - 🚀 Passionate about innovation, smart city solutions, and product development  
 - 🥇 Winner of Tech Tre2 CP Event | 🤖 Deep Blue Hackathon Finalist  
