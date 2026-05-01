@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Prajin Kumar P</h1>
-<h3 align="center">App & Web Developer | IoT + Cloud Enthusiast</h3>
+<h3 align="center">App & Web Developer | AIML + Cloud Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=CSE+Student+%7C+Tech+Entrepreneur;Innovator+%7C+Problem+Solver;Passionate+about+AI%2C+IoT%2C+and+Cloud" alt="Typing SVG" />
@@ -10,10 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year CSE Student at **St. Joseph's Institute of Technology**, Chennai  
-- 🧠 Building projects with **Flutter**, **Firebase**, **IoT**, and **Cloud**  
+- 🎓 4th Year CSE Student at **St. Joseph's Institute of Technology**, Chennai  
+- 🧠 Building projects with **Flutter**, **Firebase**, **IoT**, **MERN**, **Springboot** and **Cloud**  
 - 🚀 Passionate about innovation, smart city solutions, and product development  
-- 🥇 Winner of Tech Tre2 CP Event | 🤖 Deep Blue Hackathon Finalist  
+- 🥇 Winner of Several Events  
 
 ---
 
